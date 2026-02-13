@@ -1,3 +1,4 @@
+# PEDRO 
 class paciente:
     def __init__(self, nome, diagnostico, cor_pulseira, contato):
         self.nome = nome
